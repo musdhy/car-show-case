@@ -3,7 +3,7 @@ import { Footer, Navbar } from "@/components";
 import "./globals.css";
 import React from "react";
 import ProgressBar from "@/components/ProgressBar";
-import Scrollbar from "@/components/scrollBar";
+import Scrollbar from "@/components/ScrollBar";
 
 export const metadata = {
   title: "Car Hub",
